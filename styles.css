@@ -1,25 +1,11 @@
 body {
     background-color: black;
-  }
-
-
-h1{
-    text-align: center;
-    background-color: aliceblue;
     margin: 0px;
-    border: 0px;
-}
-
-.icons{
-    display: inline-flex;
-    justify-content: center;
-  }
-  
-  .fa-icon {
-    font-size: 50px;
-    margin: 0 10px;
   }
 
-.profiles{
-
+#header{
+  text-align: center;
+  background-color: darkgray;
+  color: black;
+  padding: 20px 20px;
 }
